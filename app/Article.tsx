@@ -1,3 +1,5 @@
+import ReadMoreButton from "./ReadMoreButton";
+
 type Props = {
 	article: Article;
 };
@@ -28,6 +30,7 @@ function Article({ article }: Props) {
 				</div>
 
 				{/* readmore button */}
+				<ReadMoreButton article={article} />
 			</div>
 		</article>
 	);
