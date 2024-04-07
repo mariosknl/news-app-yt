@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/react": "18.2.74",
-    "@types/node": "20.11.30",
+    "@types/node": "20.12.5",
     "@types/react-dom": "18.2.24",
     "@types/react-timeago": "^4.1.3",
     "autoprefixer": "^10.4.12",
