@@ -368,9 +368,9 @@ styled-jsx@5.1.1:
     client-only "0.0.1"
 
 tailwindcss@^4.0.0:
-  version "4.0.17"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.17.tgz#44332e28d4213385727b6199e07ab296d8bdfa42"
-  integrity sha512-OErSiGzRa6rLiOvaipsDZvLMSpsBZ4ysB4f0VKGXUrjw2jfkJRd6kjRKV2+ZmTCNvwtvgdDam5D7w6WXsdLJZw==
+  version "4.1.6"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.1.6.tgz#ebe62de22b7d8a8c1f76bd3a07fc37c3fcc36503"
+  integrity sha512-j0cGLTreM6u4OWzBeLBpycK0WIh8w7kSwcUsQZoGLHZ7xDTdM69lN64AgoIEEwFi0tnhs4wSykUa5YWxAzgFYg==
 
 tslib@^2.4.0:
   version "2.4.1"
