@@ -327,9 +327,9 @@ react-dom@18.3.1:
     scheduler "^0.23.2"
 
 react-timeago@^8.0.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/react-timeago/-/react-timeago-8.2.0.tgz#a6c9c81f1ed8565f87d297d012c467944a0176be"
-  integrity sha512-RWDlG3Jj+iwv+yNEDweA/Qk1mxE8i/Oc4oW8Irp29ZfBp+eNpqqYPMLPYQJyfRMJcGB8CmWkEGMYhB4fW8eZlQ==
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/react-timeago/-/react-timeago-8.3.0.tgz#117ebd37032df0cbfbfdb27136bb6e22f72348b3"
+  integrity sha512-BeR0hj/5qqTc2+zxzBSQZMky6MmqwOtKseU3CSmcjKR5uXerej2QY34v2d+cdz11PoeVfAdWLX+qjM/UdZkUUg==
 
 react@18.3.1:
   version "18.3.1"
