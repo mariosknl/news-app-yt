@@ -191,9 +191,9 @@ fraction.js@^4.3.7:
   integrity sha512-ZsDfxO51wGAXREY55a7la9LScWpwv9RxIrYABrlvOFBlH/ShPnrtsXeuUIfXKKOVicNxQ+o8JTbJvjS4M89yew==
 
 graphql-request@^7.0.0:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/graphql-request/-/graphql-request-7.3.1.tgz#bc37771f42ec799713f8c09e995cdcfed8d5bd3a"
-  integrity sha512-GdinBsBVYrWzwEvOlzadrV5j8mdOc9ZT8In9QyRIZaxbhkTL08j35yNbPp96jAacYzjeD/hKKy2E2RGI7c7Yug==
+  version "7.3.5"
+  resolved "https://registry.yarnpkg.com/graphql-request/-/graphql-request-7.3.5.tgz#ef262a863adaddad3979e80e1027ba8090482467"
+  integrity sha512-yrikPPBQFrHTCEw+Nr89vcKkhSOaKk1a4i1aoK0q2pJp0TkkH+HxJXKeVDqzHSYAEoFoNqKmNuqda1tubgaGZQ==
   dependencies:
     "@graphql-typed-document-node/core" "^3.2.0"
 
